@@ -1,6 +1,6 @@
 # Hi, I'm ibrahimi!
 
-I'm a developer @limuntech for now
+I'm a developer @limuntech
 ## Skills
 - Kotlin Android
 - Laravel
